@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 {
   "extends": [
     "config:base"
   ]
 }
+=======
+{
+  "extends": [
+    "config:base"
+  ]
+}
+>>>>>>> c69d11c (Updated with Git-Sync)
